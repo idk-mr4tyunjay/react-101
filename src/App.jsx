@@ -2,6 +2,7 @@
 import './App.css'
 import Accordian from './components/accordian'
 import ImageSlider from './components/imageSlider'
+import LoadMoreData from './components/loadMoreBtn'
 import RandomColor from './components/randomcolor'
 import StarRating from './components/starRating'
 
@@ -17,6 +18,7 @@ function App() {
         page={"1"}
         limit={"10"}
       />
+      <LoadMoreData/>
     </>
   )
 }
