@@ -5,6 +5,7 @@ import ImageSlider from './components/imageSlider'
 import LoadMoreData from './components/loadMoreBtn'
 import RandomColor from './components/randomcolor'
 import StarRating from './components/starRating'
+import TreeView from './components/treeView'
 
 function App() {
 
